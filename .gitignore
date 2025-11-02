@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS
+.vs/
+*.vcxproj.user
+*.csproj.user
+*.rsuser
+*.opendb
+*.VC.db
+
+# Rider/JetBrains
+.idea/
+*.DotSettings.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.cache/
+*.local/
+*.tmp/
